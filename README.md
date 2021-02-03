@@ -1,6 +1,7 @@
 # Email-Bomber
 Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook 
-
+Join Our Plug
+https://discord.gg/E5H9xTa6TU
 
 
 Features
