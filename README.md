@@ -2,7 +2,7 @@
 Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook 
 Join Our Plug
 https://discord.gg/AYMHYupYMV
-
+By RedRose#0001
 Features
 Support Gmail
 Support Yahoo
