@@ -18,10 +18,10 @@ Email-Bomber should work on all Linux distros running Python 2.7 First, clone it
 
 `git clone https://github.com/URLCUT/Bobmer.git`
 
-Now navigate to EmBomber directory
+Now navigate to Bomber directory
 
 `cd Bomber`
 
-Now you can run EmBomber
+Now you can run Bomber
 
 `python main.py`
